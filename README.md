@@ -4,7 +4,7 @@
 ### Testing Library
 
 This is basic idea how testing framework and libraries work.actually they give us better error logs.
-please try to read and understand the code of libraries which you use in your code .they will give you a better idea actually how are they working
+
 
 ```
 const sum = (a,b) => a + b
